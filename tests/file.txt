@@ -1,0 +1,16 @@
+[Tue Feb 13 5:17:27 2018] (/tests/test.php) Array
+(
+    [0] => hello
+    [1] => world
+)
+
+[Tue Feb 13 5:17:27 2018] (/tests/test.php) Hellor World
+[Tue Feb 13 5:17:27 2018] (/tests/test.php) stdClass Object
+(
+    [person] => Array
+        (
+            [name] => Edwin
+        )
+
+)
+
