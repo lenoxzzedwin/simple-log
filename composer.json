@@ -2,6 +2,11 @@
     "name": "lenoxzzedwin/simple-log",
     "description": "A simple package for write in a file all messages and variables sets ,inspired by https://www.redips.net/php/write-to-log-file ",
     "license": "MIT",
+    "keywords": [
+        "log",
+        "write",
+        "file"
+    ],
     "authors": [
         {
             "name": "lenoxzzedwin",
